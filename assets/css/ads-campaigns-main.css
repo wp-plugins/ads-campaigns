@@ -1,0 +1,9 @@
+.ads_campaigns_iframe_holder {
+  overflow: hidden;
+}
+#wishpond_ads_campaigns_iframe {
+  width:100%;
+  height: 620px;
+  background: url('../images/ajax-loader.png') 50% 50% no-repeat;
+  overflow-x: hidden;
+}
