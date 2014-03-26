@@ -19,7 +19,14 @@
       }
 
       $url = self::add_url_param( $url, "email", WishpondAdsStorage::get_admin_email() );
+      $redirect_to = self::add_url_param( $redirect_to, "utm_campaign", "Wordpress");
+      $redirect_to = self::add_url_param( $redirect_to, "utm_source", "wordpress.com");
+      $redirect_to = self::add_url_param( $redirect_to, "utm_medium", "Ads Campaigns");
+
       $url = self::add_url_param( $url, "redirect_to", $redirect_to );
+      $url = self::add_url_param( $url, "utm_campaign", "Wordpress");
+      $url = self::add_url_param( $url, "utm_source", "wordpress.com");
+      $url = self::add_url_param( $url, "utm_medium", "Ads Campaigns");
 
       if( WishpondAdsStorage::is_first_visit() )
       {

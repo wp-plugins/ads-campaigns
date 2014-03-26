@@ -11,15 +11,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create ads on Facebook and Google with the click of a button, directly from your Wordpress pages and posts! Monitor and schedule your ads as you wish.
+> Create ads on Facebook and Google! Directly from your Wordpress! Monitor and schedule your ads as you wish.
 
-> This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
+This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
 
-# How it works
+**How it works**
 
-1. Edit a page you'd like to promote
-2. Click "Create ad" buttons in the side widget
-3. Create your ad using the plugin interface
+1. Edit a page
+2. Click "Create ad" button
+3. Create your Ad
 4. View ad analytics
 
 **Why use Wishpond’s Online Ads plugin?**
