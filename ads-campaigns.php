@@ -1,8 +1,8 @@
 <?php
   /**
    * Plugin Name: Ads Campaigns
-   * Plugin URI: http://corp.wishpond.com/ads-campaigns/
-   * Description: This plugin lets you create Ads on Online from your Wordpress site. Promote your posts and pages on Online and drive new customers.
+   * Plugin URI: http://corp.wishpond.com/
+   * Description: This plugin lets you create Ads on Google and Facebook from your Wordpress site. Promote your posts and pages on Google and Facebook and drive new customers.
    * Version: 1.0
    * Author: Wishpond
    * Text Domain: ads-campaigns

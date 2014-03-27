@@ -22,7 +22,7 @@ This plugin can be used with the [Landing Pages Builder](http://wordpress.org/pl
 3. Create your Ad
 4. View ad analytics
 
-**Why use Wishpond’s Online Ads plugin?**
+**Why use Wishpond’s Ads Campaigns plugin?**
 
 - Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
 
@@ -161,7 +161,7 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 
 == Installation ==
 
-1. Download and unzip the Online Ads Campaigns Tool plugin.
+1. Download and unzip the Ads Campaigns Tool plugin.
 2. Upload the `ads-campaigns` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. You will now have a new `Ads Campaigns` link in your admin menu, and a new set of widgets on all pages and posts that let you create facebook ads and google ads directly from pages or a posts
