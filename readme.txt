@@ -17,7 +17,7 @@ This plugin can be used with the [Landing Pages Builder](http://wordpress.org/pl
 
 **How it works**
 
-1. Edit a page
+1. Edit your post/page
 2. Click "Create ad" button
 3. Create your Ad
 4. View ad analytics
