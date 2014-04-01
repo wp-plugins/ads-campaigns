@@ -27,6 +27,7 @@
       $url = self::add_url_param( $url, "utm_campaign", "Wordpress");
       $url = self::add_url_param( $url, "utm_source", "wordpress.com");
       $url = self::add_url_param( $url, "utm_medium", "Ads Campaigns");
+      $url = self::add_url_param( $url, "referral", "wordpress_ads_campaigns_plugin");
 
       if( WishpondAdsStorage::is_first_visit() )
       {
