@@ -22,7 +22,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. Use the interface to create your Ads
 4. View ad analytics
 
-This plugin lets you create Google Adwords and Facebook Ads, and monitor all your ads.
+This plugin lets you create and monitor Google Adwords and Facebook Ads.
 
 This plugin also comes with an Ad Buddy system that lets you automatically optimize all your Google Adwords campaigns and Facebook Ad campaigns, for better results.
 
