@@ -176,7 +176,7 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 
 = I have a question, what do I do? =
 
-Contact us Anytime! If you ever need a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
+Contact us Anytime! If you ever have a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
 
 == Screenshots ==
 
