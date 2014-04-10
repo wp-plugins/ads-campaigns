@@ -19,7 +19,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 1. Edit a post/page
 2. Click "Create Ad" button
-3. Enter Ad name and text
+3. Enter Ad name, text and image
 4. View analytics
 
 This plugin lets you create and monitor Google Adwords and Facebook Ads.
