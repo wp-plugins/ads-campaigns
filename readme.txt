@@ -180,13 +180,13 @@ Contact us Anytime! If you ever have a question, you can always call us at: `1-8
 
 == Screenshots ==
 
-1. Creating a Facebook Ad in your Wordpress Admin (Part 1)
-2. Creating a Facebook Ad in your Wordpress Admin (Part 2)
-3. Creating a Facebook Ad directly from a Wordpress page
+1. Create a Facebook Ad in your Wordpress Admin (Part 1)
+2. Create a Facebook Ad in your Wordpress Admin (Part 2)
+3. Create a Facebook Ad directly from a Wordpress page
 4. Your Ad on Facebook
-5. Creating a Google Ad in your Wordpress Admin (Part 1)
-6. Creating a Google Ad in your Wordpress Admin (Part 2)
-7. Creating a Google Ad directly from a Wordpress page
+5. Create a Google Ad in your Wordpress Admin (Part 1)
+6. Create a Google Ad in your Wordpress Admin (Part 2)
+7. Create a Google Ad directly from a Wordpress page
 8. Your Ad on Google
 
 #### Other great things you can do with this plugin
