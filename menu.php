@@ -139,7 +139,7 @@
   function init_ajax_callbacks()
   {
     // embed the javascript file that makes the AJAX request
-    wp_enqueue_script( 'AdsCampaignsCrossDomainJS',  plugin_dir_url( __FILE__ ) . 'assets/javascripts/xs.js', array( 'jquery' ), 1.0, true );
+    wp_enqueue_script( 'AdsCampaignsCrossDomainJS',  plugin_dir_url( __FILE__ ) . 'assets/javascripts/xd.js', array( 'jquery' ), 1.0, true );
     wp_enqueue_script( 'DisableGuestSignupScript', plugin_dir_url( __FILE__ ) . 'assets/javascripts/disable-guest-signup.js', array( 'jquery' ), 1.0, true );
     wp_enqueue_script( 'json2' );
     wp_localize_script( 'DisableGuestSignupScript', 'DisableGuestSignup', array(
