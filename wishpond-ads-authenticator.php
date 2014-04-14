@@ -37,6 +37,17 @@
       return $url;
     }
 
+    /* Creates a random token to be used with the current account */
+    private static function random_token()
+    {
+      $hashed_string  = urlencode( php_uname( "n" ) );
+      $hashed_string .= site_url();
+      $hashed_string .= LpWishpondHelpers::get_random_string( 64 );
+      $hashed_string .= microtime();
+      $key = hash( 'sha512', $hashed_string );
+      return $key;
+    }
+
     public static function add_url_param( $url, $param, $value )
     {
       $position_of_question_mark = strpos( $url, "?" );
