@@ -29,49 +29,37 @@
   /*
   * Wishpond Globals
   */
-
   if ( ! defined( 'WISHPOND_SITE_URL' ) )
   {
-    define('WISHPOND_SITE_URL', "https://www.wishpond.com");
+    define( 'WISHPOND_SITE_URL' , 'https://www.wishpond.com' );
   }
-  
   if ( ! defined( 'WISHPOND_SECURE_SITE_URL' ) )
   {
-    define('WISHPOND_SECURE_SITE_URL', "https://www.wishpond.com");
-  }
-
-  if ( ! defined( 'WISHPOND_GUEST_SIGNUP_URL' ) )
-  {
-    define('WISHPOND_GUEST_SIGNUP_URL', WISHPOND_SECURE_SITE_URL . "/central/merchant_signups/new/");
-  }
-
-  if ( ! defined( 'WISHPOND_LOGIN_URL' ) )
-  {
-    define('WISHPOND_LOGIN_URL', WISHPOND_SECURE_SITE_URL . "/login");
-  }
-
-  /*
-  * Wishpond Ads
-  */
-  if ( ! defined( 'ADS_CAMPAIGNS_DIR' ) )
-  {
-    define( 'ADS_CAMPAIGNS_DIR', plugin_dir_path( __FILE__ ) );
+    define( 'WISHPOND_SECURE_SITE_URL' , 'https://www.wishpond.com' );
   }
   if ( ! defined( 'ADS_CAMPAIGNS_SLUG' ) )
   {
-    define( 'ADS_CAMPAIGNS_SLUG', "ads-campaigns" );
+    define( 'ADS_CAMPAIGNS_SLUG' , 'ads-campaigns' );
   }
-  if ( ! defined( 'ADS_CAMPAIGNS_ADMIN_EMAIL' ) )
+
+  $plugin_constants = array(
+    // Wishpond Globals
+    'WISHPOND_GUEST_SIGNUP_URL' => WISHPOND_SECURE_SITE_URL . "/central/merchant_signups/new/",
+    'WISHPOND_LOGIN_URL'        => WISHPOND_SECURE_SITE_URL . "/login",
+
+    // Wishpond Ads
+    'ADS_CAMPAIGNS_DIR'           => plugin_dir_path( __FILE__ ),
+    'ADS_CAMPAIGNS_ADMIN_EMAIL'   => ADS_CAMPAIGNS_SLUG."-admin-email",
+    'ADS_CAMPAIGNS_FIRST_VISIT'   => ADS_CAMPAIGNS_SLUG."-first-visit",
+    'DISABLE_GUEST_SIGNUP_OPTION' => ADS_CAMPAIGNS_SLUG."-guest-signup"
+  );
+
+  foreach( $plugin_constants as $name => $value)
   {
-    define( 'ADS_CAMPAIGNS_ADMIN_EMAIL', ADS_CAMPAIGNS_SLUG."-admin-email" );
-  }
-  if ( ! defined( 'ADS_CAMPAIGNS_FIRST_VISIT' ) )
-  {
-    define( 'ADS_CAMPAIGNS_FIRST_VISIT', ADS_CAMPAIGNS_SLUG."-first-visit" );
-  }
-  if ( ! defined( 'DISABLE_GUEST_SIGNUP_OPTION' ) )
-  {
-    define( 'ADS_CAMPAIGNS_FIRST_VISIT', ADS_CAMPAIGNS_SLUG."-guest-signup" );
+    if ( ! defined( $name ) )
+    {
+      define( $name, $value );
+    }
   }
 
   /*
