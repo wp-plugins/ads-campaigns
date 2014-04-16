@@ -189,14 +189,6 @@ Contact us Anytime! If you ever have a question, you can always call us at: `1-8
 7. Create a Google Ad directly from a Wordpress page
 8. Your Ad on Google
 
-#### Other great things you can do with this plugin
-
-9. Live Social Contests & Promotions
-10. Creating a Sweepstakes in your Wordpress Admin
-11. Email Automation Campaigns
-12. Contact Database
-13. Campaign Analytics
-
 == Upgrade Notice ==
 
 = 1.0 =
