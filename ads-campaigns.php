@@ -2,7 +2,7 @@
   /**
    * Plugin Name: Ads Campaigns
    * Plugin URI: http://corp.wishpond.com/
-   * Description: Easily Create great Ads on Google and Facebook
+   * Description: Easily Create great Ads with Google Adwords and Facebook Ads
    * Version: 1.0
    * Author: Wishpond
    * Text Domain: ads-campaigns
