@@ -22,7 +22,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. Enter Ad name, text and image
 4. View analytics
 
-This plugin lets you create and monitor Google Adwords and Facebook Ads.
+Create and monitor Google Adwords and Facebook Ads on your wordpress site!
 
 This plugin also comes with an Ad Buddy system that lets you automatically optimize all your Google Adwords campaigns and Facebook Ad campaigns, for better results.
 
