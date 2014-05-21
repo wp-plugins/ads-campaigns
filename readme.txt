@@ -22,9 +22,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. Enter Ad name, text and image
 4. View analytics
 
+
 Create and monitor Google Adwords and Facebook Ads from your wordpress site!
 
-This plugin also comes with an Ad Buddy system that lets you automatically optimize all your Google Adwords campaigns and Facebook Ad campaigns, for better results.
+This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Adwords campaigns and Facebook Ad campaigns, for better results.
 
 
 **Why use Wishpond’s Ads Campaigns plugin?**
