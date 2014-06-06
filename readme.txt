@@ -25,7 +25,7 @@ This plugin not only lets you create great Facebook Ads and Google Ads, but it c
 4. View analytics
 
 
-Create and monitor Google Adwords and Facebook Ads from your wordpress site!
+Create and monitor Google Adwords and Facebook Ads from your wordpress admin!
 
 This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Adwords campaigns and Facebook Ad campaigns, for better results.
 
