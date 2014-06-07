@@ -1,6 +1,6 @@
 === Ads Campaigns ===
 Contributors: atajsekandar, cosminatanasiu
-Tags: Ads, Facebook, Ad, Google, search, campaign, paid search, PPC, advertising, advertisment, advertisments, advertise, Facebook Ads, Google Advertising, Google Ads, Google Marketing, Google Adwords, Adwords, online, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Google Campaigns, Ad Campaigns, Ads Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, search engine, search engine optimization, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads tool, ads hosting, manage, integration, simple, easy
+Tags: Ads, Facebook, Ad, Google, search, campaign, paid search, PPC, advertising, advertisment, advertisments, advertise, Facebook Ads, Google Advertising, Google Ads, Google Marketing, Google Adwords, Adwords, online, Facebook Advertising, Facebook Marketing, Social Ads, Facebook Campaigns, Google Campaigns, Ad Campaigns, Ads Campaigns, Social, Promotion, online, marketing, online marketing, plugin, plugins, tool, widget, widgets, sidebar, admin, administration, widget, analytics, post, posts, page, pages, button, dashboard, integration, post, posts, SEO, search engine, search engine optimization, sidebar, social, social media, tracking, widget, widgets, editor, ecommerce, e-commerce, conversions, image, picture, tool, tools, ads tools, ads tool, ads hosting, manage, integration, simple, easy, automatic
 
 Donate Link: N/A
 Requires at least: 3.0.0
@@ -23,7 +23,6 @@ This plugin not only lets you create great Facebook Ads and Google Ads, but it c
 2. Click "Create Ad" button
 3. Enter Ad name, text and image
 4. View analytics
-
 
 Create and monitor Google Adwords and Facebook Ads from your wordpress admin!
 
