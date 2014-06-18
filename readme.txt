@@ -78,7 +78,6 @@ This plugin also comes with an **Ad Buddy** system that lets you **Automatically
 
 **Contest & Promotion Apps also Included in  Wordpress Plugin:**
 
-
 **[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")** 
 Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card. Sweepstakes are an easy way to engage fans of your brand and get new leads with a very low barrier to entry.
 
