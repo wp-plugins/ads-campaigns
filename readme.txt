@@ -181,9 +181,6 @@ Contact us Anytime!
 
 If you ever have a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
 
-= Is this plugin free? =
-Yes, though Facebook and Google of course won't run your ads for free.
-
 == Screenshots ==
 
 1. Create a Facebook Ad in your Wordpress Admin (Part 1)
