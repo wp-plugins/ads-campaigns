@@ -26,7 +26,7 @@ This plugin not only lets you create great Facebook Ads and Google Ads, but can 
 
 Create and monitor Google Adwords and Facebook Ads from your wordpress site!
 
-This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Ads and Facebook Ads, for better results.
+This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Ads and Facebook Ads, for amazing results.
 
 
 **Why use Wishpond’s Ads Campaigns plugin?**
