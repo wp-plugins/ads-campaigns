@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Create Facebook Ads & Google Ads from wordpress! Create, monitor and schedule your ads easily. Use the plugin AdBuddy system to automatically optimize your ads for amazing results!
 
-> This plugin can be used with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to get more leads and improved conversion rates on your site.
+> Download the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins for more leads and improved conversion rates on your site.
 
 This plugin not only lets you create great Facebook Ads and Google Ads, but can also automatically optimize your ads for the best results and lowest price.
 
