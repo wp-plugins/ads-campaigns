@@ -4,7 +4,7 @@ Tags: Ads, Facebook, Ad, Google, search, campaign, paid search, PPC, advertising
 
 Donate Link: N/A
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
