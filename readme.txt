@@ -71,7 +71,7 @@ This plugin also comes with an **Ad Buddy** system that lets you **Automatically
 
 - Compare multiple Ad variations to see which are giving you the best return on investment.
 
-
+[Check out what our customers said about us](http://corp.wishpond.com/reviews/ "Customer Reviews")
 
 ### Other cool features included in this plugin
 
