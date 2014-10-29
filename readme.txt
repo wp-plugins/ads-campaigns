@@ -26,7 +26,7 @@ This plugin lets you create great Facebook Ads and Google Ads, and can also auto
 
 Create and monitor Google Adwords and Facebook Ads from your wordpress site!
 
-This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Ads and Facebook Ads, for amazing results.
+This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Ads and Facebook Ads, for amazing results!
 
 
 **Why use Wishpond’s Ads Campaigns plugin?**
@@ -159,7 +159,7 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 
 **Translated in 35 Languages:** Each app has been translated into 35 languages, including all user-facing text and share messages.
 
-**Like-Gate Option:** You can require that users “Like” your Facebook Page before they can enter your contest. 
+**Like-Gate Option:** You can require that users "Like" your Facebook Page before they can enter your contest. 
 
 **Custom Header Banner:** Upload a custom banner image to fit your brand. 
 
