@@ -19,7 +19,7 @@ This plugin lets you create great Facebook Ads and Google Ads, and can also auto
 
 ### How it works
 
-1. Edit a page/post
+1. Create/Edit a page/post
 2. Click "Create Ad" button
 3. Enter Ad name, text and image
 4. View analytics
