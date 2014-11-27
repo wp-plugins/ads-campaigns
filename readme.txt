@@ -28,7 +28,6 @@ Create and monitor Google Adwords and Facebook Ads from your wordpress site!
 
 This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Ads and Facebook Ads, for amazing results!
 
-
 **Why use Wishpond’s Ads Campaigns plugin?**
 
 - Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
@@ -185,11 +184,11 @@ If you have a question, you can always call us at: `1-800-921-0167`, email us at
 
 1. Create a Facebook Ad in your Wordpress Admin (Part 1)
 2. Create a Facebook Ad in your Wordpress Admin (Part 2)
-3. Create a Facebook Ad directly from a Wordpress page
+3. Create a Facebook Ad directly from Wordpress
 4. Your Ad on Facebook
 5. Create a Google Ad in your Wordpress Admin (Part 1)
 6. Create a Google Ad in your Wordpress Admin (Part 2)
-7. Create a Google Ad directly from a Wordpress page
+7. Create a Google Ad directly from Wordpress
 8. Your Ad on Google
 
 == Upgrade Notice ==
