@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Download the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins for more leads and improved conversion rates on your site.
 
-Create great Facebook Ads and Google Ads. Automatically optimize your ads for the best results and lowest price!
+Create great Facebook Ads and Google Ads! Automatically optimize your ads for the best results and lowest price!
 
 ### How it works
 
