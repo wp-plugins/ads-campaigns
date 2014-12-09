@@ -30,45 +30,45 @@ This plugin also comes with an **Ad Buddy** system that lets you **Automatically
 
 **Why use Wishpond’s Ads Campaigns plugin?**
 
-- Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
+- Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business
 
-- Drive Repeat Customers: Upload your customer email or phone list and our tool will show them your Facebook Ad.
+- Drive Repeat Customers: Upload your customer email or phone list and our tool will show them your Facebook Ad
 
-- Find New Customers: Advertise to people with similar tastes & interests as your current customers.
+- Find New Customers: Advertise to people with similar tastes & interests as your current customers
 
 
 **Let Wishpond’s Ad Buddy system Optimize your Target Audience.**
 
-- Let our Ad Buddy system choose the best audience for your Ad based on your business.
+- Let our Ad Buddy system choose the best audience for your Ad based on your business
 
-- Self-Optimizing Ads see who is clicking & converting to optimize your audience and Ad Spend over time.
+- Self-Optimizing Ads see who is clicking & converting to optimize your audience and Ad Spend over time
 
-- Advanced Targeting Options are available to choose your perfect target audience on your own.
+- Advanced Targeting Options are available to choose your perfect target audience on your own
 
 
 **Target your Contact List on Facebook.**
 
-- Target specific people on Facebook based on their email address and phone number.
+- Target specific people on Facebook based on their email address and phone number
 
-- Target people similar to your customer list. Facebook identifies the similar traits among people on your contact list and targets other people with those traits.
+- Target people similar to your customer list. Facebook identifies the similar traits among people on your contact list and targets other people with those traits
 
-- Import contacts from your email service or CRM including Salesforce and Mailchimp to target.
+- Import contacts from your email service or CRM including Salesforce and Mailchimp to target
 
 
 **Create an Ad in minutes using our simple Ad Creator.** 
 
-- Made for First-Time Users. We make it easy to build an Ad, even if it’s your first time. 
-- Built in Conversion Tracking on all Wishpond contests makes it easy to see your Ad’s conversion rate and return on investment. 
-- Get help from the experts. Wishpond’s Ad team is standing by to help you create the best Ad for your business.
+- Made for First-Time Users. We make it easy to build an Ad, even if it’s your first time
+- Built in Conversion Tracking on all Wishpond contests makes it easy to see your Ad’s conversion rate and return on investment
+- Get help from the experts. Wishpond’s Ad team is standing by to help you create the best Ad for your business
 
 
 **Track Performance with Real-Time Reporting.**
 
-- Track your Ad Conversion Funnel from Ad Views all the way to Conversions to understand exactly how your Ads are performing.
+- Track your Ad Conversion Funnel from Ad Views all the way to Conversions to understand exactly how your Ads are performing
 
-- Combat Facebook Ad Fatigue by analyzing your click-through rate over time.
+- Combat Facebook Ad Fatigue by analyzing your click-through rate over time
 
-- Compare multiple Ad variations to see which are giving you the best return on investment.
+- Compare multiple Ad variations to see which are giving you the best return on investment
 
 [Check out what our customers said about us](http://corp.wishpond.com/reviews/ "Customer Reviews")
 
