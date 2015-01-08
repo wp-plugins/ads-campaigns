@@ -55,7 +55,7 @@ This plugin also comes with an **Ad Buddy** system that lets you **Automatically
 - Import contacts from your email service or CRM including Salesforce and Mailchimp to target
 
 
-**Create an Ad in minutes using our simple Ad Creator.** 
+**Create an Ad in seconds using our simple Ad Creator.** 
 
 - Made for First-Time Users. We make it easy to build an Ad, even if it’s your first time
 - Built in Conversion Tracking on all Wishpond contests makes it easy to see your Ad’s conversion rate and return on investment
