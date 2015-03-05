@@ -178,7 +178,7 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 
 Contact us Anytime!
 
-If you have a question, you can always email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you through this plugin.
+If you have a question, you can always email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support"), or just use the live chat available to you through this plugin.
 
 == Screenshots ==
 
