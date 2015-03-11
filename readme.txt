@@ -11,9 +11,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create Facebook Ads and Google Ads from your wordpress! Create, monitor and schedule your ads easily. Use the plugin AdBuddy system to automatically optimize your ads for amazing results!
+> Create Facebook Ads and Google Ads from your Wordpress! Create, monitor and schedule your ads easily. Use the Ad Buddy system to automatically optimize your ads for amazing results!
 
-> Download the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins for more leads and improved conversion rates on your site.
+> Can be used and integrated with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins for more leads and improved conversion rates on your site.
 
 Create great Facebook Ads and Google Ads in seconds! Automatically optimize your ads for the best results and lowest price!
 
@@ -37,7 +37,7 @@ This plugin also comes with an **Ad Buddy** system that lets you **Automatically
 - Find New Customers: Advertise to people with similar tastes & interests as your current customers
 
 
-**Let Wishpond’s Ad Buddy system Optimize your Target Audience.**
+**Let Wishpond's Ad Buddy system Optimize your Target Audience.**
 
 - Let our Ad Buddy system choose the best audience for your Ad based on your business
 
