@@ -11,11 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create Facebook Ads and Google Ads from your Wordpress! Create, monitor and schedule your ads easily. Use the Ad Buddy system to automatically optimize your ads for amazing results!
+> Create Facebook Ads and Remarketing Ads from your wordpress! Create, monitor and schedule your ads easily. Use the Ad Buddy system to automatically optimize your ads for amazing results!
 
 > Can be used and integrated with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins for more leads and improved conversion rates on your site.
 
-Create great Facebook Ads and Google Ads in seconds! Automatically optimize your ads for the best results and lowest price!
+Create great Facebook Ads and Remarketing in seconds! Automatically optimize your ads for the best results and lowest price!
 
 ### How it works
 
@@ -24,9 +24,9 @@ Create great Facebook Ads and Google Ads in seconds! Automatically optimize your
 3. Enter Ad name, text and image
 4. View analytics
 
-Create Google Adwords and Facebook Ads from your wordpress site!
+Create Remarketing Ads and Facebook Ads from your wordpress site!
 
-This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Google Ads and Facebook Ads, for amazing results!
+This plugin also comes with an **Ad Buddy** system that lets you **Automatically Optimize** all your Remarketing Ads and Facebook Ads, for amazing results!
 
 **Why use Wishpond’s Ads Campaigns plugin?**
 
@@ -169,8 +169,8 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 1. Download and unzip the Ads Campaigns plugin.
 2. Upload the `ads-campaigns` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
-4. You will now have a new `Ads Campaigns` link in your admin menu, and a new set of widgets on all pages and posts that let you create facebook ads and google ads directly from pages or a posts
-5. From there click 'Create a Facebook Ad' or 'Create a Google ad' and you will be able to create your ad.
+4. You will now have a new `Ads Campaigns` link in your admin menu, and a new set of widgets on all pages and posts that let you create Facebook Ads and Remarketing Ads directly from pages or a posts
+5. From there click 'Create a Facebook Ad' or 'Create a Retargeting Ad' and you will be able to create your ad.
 
 == Frequently Asked Questions ==
 
