@@ -186,10 +186,6 @@ If you have a question, you can always email us at [support@wishpond.com](mailto
 2. Create a Facebook Ad in your Wordpress Admin (Part 2)
 3. Create a Facebook Ad directly from Wordpress
 4. Your Ad on Facebook
-5. Create a Google Ad in your Wordpress Admin (Part 1)
-6. Create a Google Ad in your Wordpress Admin (Part 2)
-7. Create a Google Ad directly from Wordpress
-8. Your Ad on Google
 
 == Upgrade Notice ==
 
